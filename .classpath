@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/home/damir/workspace/StudentskaBiblioteka/Biblioteke/derby.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/damir/workspace/StudentskaBiblioteka/Biblioteke/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/damir/workspace/StudentskaBiblioteka/Biblioteke/joda-time-2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLink 2.5.2">
+		<attributes>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
